@@ -11,3 +11,5 @@
 4. Creating elements and editing their properties on Javascript
 5. Adding event listeners on Javascript
 6. Looping through an array on Javascript
+
+test
